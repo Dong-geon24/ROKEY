@@ -1,0 +1,5 @@
+Defaulting to user installation because normal site-packages is not writeable
+Looking in indexes: https://download.pytorch.org/whl/cu124
+Requirement already satisfied: torch in /home/arclab/.local/lib/python3.10/site-packages (2.2.1)
+Collecting torch
+  Downloading https://download.pytorch.org/whl/cu124/torch-2.4.1%2Bcu124-cp310-cp310-linux_x86_64.whl (797.2 MB)
